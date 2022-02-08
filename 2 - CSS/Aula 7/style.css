@@ -1,0 +1,28 @@
+body{
+    background: #dfdfdf; 
+}
+
+p {
+    color: #22rgb(34, 34, 34);
+    margin-left: 0px;
+    padding-left: 0px;
+    border-left: 0px;
+}
+
+.foto-principal {
+    border: 2px solid #FFFFFF; /* shorthand */
+    border-radius: 50%;
+    margin: 30px;
+    padding: 10px;  
+}
+
+ul {
+    padding-left: 20px;
+    list-style-position: inside;
+}
+
+h4 {
+    border: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}

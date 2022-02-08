@@ -1,0 +1,43 @@
+body{
+    background: #dfdfdf; 
+    font-family: Arial, Helvetica, 'courier new', sans-serif;
+    color: rgb(34, 34, 34);
+}
+
+p {
+    margin-left: 0px;
+    padding-left: 0px;
+    border-left: 0px;
+}
+
+.foto-principal {
+    border: 2px solid #FFFFFF; /* shorthand */
+    border-radius: 50%;
+    margin: 30px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px #858383;  
+}
+
+ul {
+    padding-left: 20px;
+    list-style-position: inside;
+}
+
+h4 {
+    border: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+h1 {
+    margin-bottom: 0;
+    letter-spacing: -1px;
+}
+
+h2 {
+    margin-top: 0;
+    font-style: italic;
+    color: #5a5959;
+    font-weight: 20;
+    letter-spacing: -1px;
+}
